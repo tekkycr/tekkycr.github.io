@@ -10,5 +10,21 @@
         "name": "tekky"
     },
     "items": [
+        {
+            "id": "https://tekkycr.github.io/anuncio-blackview-acebook-1/",
+            "url": "https://tekkycr.github.io/anuncio-blackview-acebook-1/",
+            "title": "Blackview anuncia su incursión en el mercado de las computadoras portátiles",
+            "summary": "Blackview, el fabricante chino conocido por sus teléfonos rugosos y tabletas económicas, compartió una nueva publicación en sus redes sociales para informar sobre su incursión en el mercado de las computadoras portátiles, con un producto de especificaciones de modestas especificaciones. De acuerdo con la ficha&hellip;",
+            "content_html": "<p><strong>Blackview</strong>, el fabricante chino conocido por sus teléfonos rugosos y tabletas económicas, compartió una nueva publicación en sus redes sociales para informar sobre su incursión en el mercado de las computadoras portátiles, con un producto de especificaciones de modestas especificaciones.</p>\n<p>De acuerdo con la <a href=\"https://www.blackview.hk/products/item/acebook1\" target=\"_blank\" rel=\"noopener noreferrer\">ficha técnica (disponible en la página oficial de la compañía)</a>, este portátil llevará como nombre <strong>AceBook 1 </strong>y, entre sus principales características, nos encontramos con una pantalla de 14 pulgadas (a una resolución de 1920x1080, un procesador <strong>Intel Celeron N4120 </strong>(a una velocidad variable entre 1.1 y 2.6 GHz), 4 GB de memoria RAM y un SSD de 128 GB.</p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"500\" height=\"660\" style=\"border: none; overflow: hidden;\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwww.blackview.hk%2Fposts%2F4664805580214834&amp;show_text=true&amp;width=500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\"></iframe></div>\n<p>Además, en la página se menciona que incluirá una batería de 6.000 mAh (con la capacidad de soportar hasta 12 horas de reproducción multimedia), un lector de huella dactilar, un panel metálico, varios puertos (HDMI, USB tipo-C, USB 3.0, para audífonos y para tarjetas micro SD) y vendrá pre-instalado con <strong>Windows 10</strong>.</p>\n<p>Inicialmente, su precio estará fijado en $499.99 dólares en la <a href=\"https://store.blackview.hk/products/blackview-acebook-1-14-intel-celeron-n4120-128gb-ssd-windows-10-laptop\" target=\"_blank\" rel=\"noopener noreferrer\">tienda oficial</a> y esperamos que disminuya cuando sea comercializado en <strong>Amazon </strong>y <strong>AliExpress</strong>.</p>",
+            "image": "https://tekkycr.github.io/media/posts/1/Blackview_Acebook_1.png",
+            "author": {
+                "name": "tekky"
+            },
+            "tags": [
+                   "tecnología"
+            ],
+            "date_published": "2021-07-03T14:43:25-06:00",
+            "date_modified": "2021-07-03T14:43:25-06:00"
+        }
     ]
 }
