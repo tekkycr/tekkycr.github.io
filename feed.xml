@@ -3,12 +3,42 @@
     <title>tekky</title>
     <link href="https://tekkycr.github.io/feed.xml" rel="self" />
     <link href="https://tekkycr.github.io" />
-    <updated>2021-07-03T14:43:25-06:00</updated>
+    <updated>2021-07-04T17:27:07-06:00</updated>
     <author>
         <name>tekky</name>
     </author>
     <id>https://tekkycr.github.io</id>
 
+    <entry>
+        <title>China: Ordenan la eliminación de DiDi por recolectar datos personales</title>
+        <author>
+            <name>tekky</name>
+        </author>
+        <link href="https://tekkycr.github.io/bloqueo-didi-china/"/>
+        <id>https://tekkycr.github.io/bloqueo-didi-china/</id>
+            <category term="tecnología"/>
+            <category term="noticias"/>
+            <category term="DiDi"/>
+
+        <updated>2021-07-04T17:26:53-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tekkycr.github.io/media/posts/2/DiDi.png" alt="Aplicación de Didi" />
+                    La Administración del Ciberespacio de China (conocida como CAC, por sus iniciales en inglés) ha ordenado la eliminación de DiDi, la popular aplicación de transporte privado, de todas las tiendas digitales en el país asiático. De acuerdo a un informe de la agencia Reuters, el anuncio de esta importante&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tekkycr.github.io/media/posts/2/DiDi.png" alt="Aplicación de Didi" />
+                <p>La <strong>Administración del Ciberespacio de China </strong>(conocida como CAC, por sus iniciales en inglés) ha ordenado la eliminación de <strong>DiDi</strong>, la popular aplicación de transporte privado, de todas las tiendas digitales en el país asiático.</p>
+<p>De acuerdo a <a href="https://www.reuters.com/world/china/china-cyberspace-agency-says-didi-illegally-collects-user-data-2021-07-04/?t" target="_blank" rel="noopener noreferrer">un informe de la agencia <em>Reuters</em></a>, el anuncio de esta importante decisión llega luego de una investigación realizada por la entidad reguladora, donde se descubrió que la aplicación habría recolectado ilegalmente algunos datos personales de los usuarios, que no fueron especificados.</p>
+<p>En respuesta a esta medida, un portavoz de la aplicación afirmó mediante una publicación en Weibo (red social permitida por la República Popular de China), que acatarían esta medida y, además de eliminarla de las tiendas, optaron por suspender temporalmente el registro de nuevos usuarios.</p>
+<p>Respecto a la investigación, es importante destacar que se realizó con el motivo de "<em>preservar la seguridad nacional</em>", ya que DiDi debutó recientemente en la bolsa de valores de Nueva York, con un valor estimado de $68 millones de dólares.</p>
+<p>Para finalizar, es importante destacar que esta sanción aplica únicamente en territorio chino, por lo que en todo el continente americano, DiDi continuará operando con normalidad.</p>
+<p>Fuente: <a href="https://www.theverge.com/2021/7/4/22562912/china-regulator-orders-didi-ride-hailing-app-removed" target="_blank" rel="noopener noreferrer">The Verge</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Blackview anuncia su incursión en el mercado de las computadoras portátiles</title>
         <author>
@@ -17,8 +47,9 @@
         <link href="https://tekkycr.github.io/anuncio-blackview-acebook-1/"/>
         <id>https://tekkycr.github.io/anuncio-blackview-acebook-1/</id>
             <category term="tecnología"/>
+            <category term="noticias"/>
 
-        <updated>2021-07-03T14:43:25-06:00</updated>
+        <updated>2021-07-04T17:27:07-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tekkycr.github.io/media/posts/1/Blackview_Acebook_1.png" alt="Blackview AceBook 1" />
