@@ -3,12 +3,45 @@
     <title>tekky</title>
     <link href="https://tekkycr.github.io/feed.xml" rel="self" />
     <link href="https://tekkycr.github.io" />
-    <updated>2021-07-04T17:28:13-06:00</updated>
+    <updated>2021-07-05T11:15:10-06:00</updated>
     <author>
         <name>tekky</name>
     </author>
     <id>https://tekkycr.github.io</id>
 
+    <entry>
+        <title>Nintendo solicita a tribunal nuevas medidas para el creador de RomUniverse</title>
+        <author>
+            <name>tekky</name>
+        </author>
+        <link href="https://tekkycr.github.io/nintendo-solicita-a-tribunal-nuevas-medidas-para-el-creador-de-romuniverse/"/>
+        <id>https://tekkycr.github.io/nintendo-solicita-a-tribunal-nuevas-medidas-para-el-creador-de-romuniverse/</id>
+            <category term="videojuegos"/>
+            <category term="noticias"/>
+            <category term="ROMUniverse"/>
+
+        <updated>2021-07-05T11:15:10-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tekkycr.github.io/media/posts/3/demanda_Nintendo.png" alt="" />
+                    Anteriormente en mayo del presente año, Nintendo presentó una demanda ante Matthew Storman (creador y administrador del sitio ROMUniverse), por distribuir ilegalmente los juegos disponibles en la mayoría de consolas de la compañía. En este caso, los jueces le ordenaron a Storman realizar un pago de $2.1 millones&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tekkycr.github.io/media/posts/3/demanda_Nintendo.png" alt="" />
+                <p>Anteriormente en mayo del presente año, <strong>Nintendo </strong>presentó una demanda ante Matthew Storman (creador y administrador del sitio <strong>ROMUniverse</strong>), por distribuir ilegalmente los juegos disponibles en la mayoría de consolas de la compañía.</p>
+<p>En este caso, los jueces le ordenaron a Storman realizar un pago de $2.1 millones de dólares, aproximadamente. Debido a que Storman afirmó no poder pagar esa cantidad por estar desempleado, él acordó con Nintendo el pago de $50 dólares mensuales, lo que no ha cumplido y ha motivado a la gran N, para solicitar nuevas medidas.</p>
+<p>De acuerdo con un documento, <a href="https://torrentfreak.com/images/storman-reconsider2-nin.pdf" target="_blank" rel="nofollow noopener noreferrer">cuya copia está en manos del portal <em>TorrentFreak</em></a>, la compañía nipona solicitó la imposición de medidas permanentes ante Matthew, porque "<em>el demandado amenaza en continuar utilizando ROMUniverse para distribuir ROMs de videojuegos utilizando la misma página en la que por varios años infringió los derechos de marca y propiedad de Nintendo</em>".</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://tekkycr.github.io/media/posts/3/ROMUniverse-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tekkycr.github.io/media/posts/3/responsive/ROMUniverse-2-xs.png 300w ,https://tekkycr.github.io/media/posts/3/responsive/ROMUniverse-2-sm.png 480w ,https://tekkycr.github.io/media/posts/3/responsive/ROMUniverse-2-md.png 768w ,https://tekkycr.github.io/media/posts/3/responsive/ROMUniverse-2-lg.png 1024w ,https://tekkycr.github.io/media/posts/3/responsive/ROMUniverse-2-xl.png 1360w ,https://tekkycr.github.io/media/posts/3/responsive/ROMUniverse-2-2xl.png 1600w"  alt="Captura de ROMUniverse, previo a su cierre." width="2000" height="998">
+<figcaption >Caption</figcaption>
+</figure>
+<p> </p>
+<p>Con las declaraciones anteriores, podemos afirmar que en Nintendo sospechan de un posible regreso de la página que, a pesar de encontrarse inactiva, puede volver a funcionar utilizando algún dominio alternativo para disminuir las sospechas.</p>
+<p>Además, es importante destacar que esta no es la primera ocasión en que los abogados de Nintendo actúan contra una de estas páginas, ya que, previamente, actuaron de una manera similar ante los administradores de LoveROMs, LoveRetro y EmuParadise, aunque esta última regresó de una manera bastante diferente, aprovechando de <strong>Tampermonkey</strong>, una extensión disponible para los navegadores como <strong>Google Chrome </strong>y <strong>Mozilla Firefox</strong>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>China: Ordenan la eliminación de DiDi por rección ilegal de datos de los usuarios</title>
         <author>
